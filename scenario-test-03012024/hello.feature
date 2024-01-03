@@ -5,3 +5,4 @@ Feature: Say hello
     <Some interesting scenario steps here>
     When someone enters
     Then say hello
+    And wave
