@@ -1,5 +1,5 @@
 Feature:
   <Some interesting description here>
-# subtask
+# subtask updated from gh
   Scenario:
     <Some interesting scenario steps here>
