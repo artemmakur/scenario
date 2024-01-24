@@ -1,5 +1,5 @@
 Feature:
   <Some interesting description here>
-# storyy
+# storyy updated from gh
   Scenario:
     <Some interesting scenario steps here>
