@@ -5,3 +5,4 @@ Feature:
     <Some interesting scenario steps here>
     When: someone comes
     Then: say hello
+    #Congrats! You welcomed someone
